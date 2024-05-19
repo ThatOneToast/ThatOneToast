@@ -1,4 +1,10 @@
-### Hi there 👋
+### Toast
+
+** Self taught developer**
+
+My name is toast. I mostly work in Kotlin, and my plan is to just try and create tools that makes peoples lives just a little bit easier.
+Simplicity is my number 1 goal. I want the software I make to simple. It should be powerful but really easy to do. 
+
 
 <!--
 **ToastArgumentative/ToastArgumentative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
