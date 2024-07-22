@@ -1,22 +1,22 @@
-### Toast
 
-** Self taught developer**
+**I'm Toast!**
 
-My name is toast. I mostly work in Kotlin, and my plan is to just try and create tools that makes peoples lives just a little bit easier.
-Simplicity is my number 1 goal. I want the software I make to simple. It should be powerful but really easy to do. 
+I'm a lone developer. I started my programming journy in python back in 2016 I was on and off willing to do things. Around 2021-2022 I published my first repo a python discord bot to my github.
+Did a little bit of html, and swift in between. I then found my way to Java and miencraft, but I didnt stick with Java for long as Kotlin just hit me better. 
+
+```json
+{
+  "PersonalInfo": {
+    "name": "Toast",
+    "email": "toastarg@icloud.com",
+    "age": 18,
+    "favorite_language": "Kotlin"
+  },
+
+  "CurrentProject": "None"
+}
+```
+[![Toast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastArgumentative&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
-**ToastArgumentative/ToastArgumentative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Toast's Stats](https://github-readme-stats.vercel.app/api?username=ToastArgumentative&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
