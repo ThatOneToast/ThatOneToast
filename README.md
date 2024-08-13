@@ -8,7 +8,7 @@ Did a little bit of html, and swift in between. I then found my way to Java and 
 {
   "PersonalInfo": {
     "name": "Toast",
-    "email": "toastarg@icloud.com",
+    "email": "ThatOneToast@proton.me",
     "age": 18,
     "favorite_language": "Kotlin"
   },
