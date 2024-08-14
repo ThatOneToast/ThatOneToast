@@ -16,7 +16,7 @@ Did a little bit of html, and swift in between. I then found my way to Java and 
   "CurrentProject": "Maths-Lang"
 }
 ```
-[![Toast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToastArgumentative&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Toast's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneToast&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Toast's Stats](https://github-readme-stats.vercel.app/api?username=ToastArgumentative&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Toast's Stats](https://github-readme-stats.vercel.app/api?username=THatOneToast&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
