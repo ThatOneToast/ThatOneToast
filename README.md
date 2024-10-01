@@ -10,10 +10,10 @@ Did a little bit of html, and swift in between. I then found my way to Java and 
     "name": "Toast",
     "email": "ThatOneToast@proton.me",
     "age": 18,
-    "favorite_language": "Kotlin"
+    "favorite_language": "Kotlin/Rust"
   },
 
-  "CurrentProject": "Maths-Lang"
+  "CurrentProject": "Toaster"
 }
 ```
 
