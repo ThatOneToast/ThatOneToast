@@ -13,7 +13,7 @@ Did a little bit of html, and swift in between. I then found my way to Java and 
     "favorite_language": "Kotlin/Rust"
   },
 
-  "CurrentProject": "Toaster"
+  "CurrentProject": "Many"
 }
 ```
 
